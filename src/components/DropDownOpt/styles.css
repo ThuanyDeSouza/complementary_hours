@@ -1,0 +1,21 @@
+select {
+    background-color: #151419;
+    color: white;
+    border-radius: 20px;
+    height: 7vh;
+    width: 25vw;
+}
+
+.dropDown {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dropDown select {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+}

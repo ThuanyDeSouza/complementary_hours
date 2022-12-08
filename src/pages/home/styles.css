@@ -1,0 +1,17 @@
+
+
+#Hello > h1 {
+    margin: 0;
+    padding: 0;
+}
+#Home {
+    width: 90vw;
+    height: 100vh;
+    margin: 0;
+    padding: 5vh 5vw;
+}
+
+#Cards {
+    display: flex;
+    flex-direction: column;
+}

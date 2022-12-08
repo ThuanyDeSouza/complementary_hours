@@ -1,0 +1,19 @@
+.camposLogin {
+    margin: 24px 0;
+}
+
+.camposLogin input {
+    background-color: #302E38;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 334px;
+    height: 63.94px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 28px;
+    text-align: center;
+    padding: 32px;
+    border: 1px solid #302E38;
+    padding: 24px;
+    box-sizing: border-box;
+}
